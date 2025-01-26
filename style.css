@@ -96,6 +96,58 @@ h1, h2, h3, h4 {
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
 
+/* Education Section Styles */
+.university-header {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.university-logo {
+    width: 80px;
+    height: auto;
+}
+
+.coursework-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: start;
+}
+
+.campus-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.coursework-text ul {
+    columns: 2;
+    margin-top: 1rem;
+}
+
+.coursework-text li {
+    margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+    .coursework-container {
+        grid-template-columns: 1fr;
+    }
+    
+    .university-header {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .coursework-text ul {
+        columns: 1;
+    }
+}
+
 .current-projects {
     margin-top: 2rem;
     padding: 1.5rem;
