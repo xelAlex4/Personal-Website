@@ -23,12 +23,30 @@ const initScrollAnimations = () => {
         });
     }, { threshold: 0.1 });
 
+    // Observe elements with the .fade-in class
     document.querySelectorAll('.fade-in').forEach(element => {
         observer.observe(element);
     });
 };
 
+// Timeline Scroll Animations
+const initTimelineAnimations = () => {
+    const timelineItems = document.querySelectorAll('.timeline-item');
+    const timelineObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('fade-in-visible');
+            }
+        });
+    }, { threshold: 0.2 });
+
+    timelineItems.forEach(item => {
+        timelineObserver.observe(item);
+    });
+};
+
 // Initialize all functionality
 document.addEventListener('DOMContentLoaded', () => {
-    initScrollAnimations();
+    initScrollAnimations(); // For general fade-in animations
+    initTimelineAnimations(); // For timeline-specific animations
 });
