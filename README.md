@@ -26,9 +26,3 @@ A modern, responsive portfolio website showcasing projects, skills, and experien
 - **Styling**: CSS Grid, Flexbox, Custom Animations
 - **Icons**: Font Awesome 6
 - **Fonts**: Inter + Space Mono from Google Fonts
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/your-portfolio.git
