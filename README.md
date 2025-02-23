@@ -5,7 +5,7 @@ A modern, responsive portfolio website showcasing projects, skills, and experien
 ## Features
 
 - **Responsive Design**: Works on all device sizes
-- **Project Showcase**: Display projects with technologies used
+- **Project Showcase**: Display my projects with technologies used
 - **Interactive Elements**: Smooth animations and hover effects
 - **Contact Form**: Easy visitor communication
 - **Multi-Page Structure**: 
