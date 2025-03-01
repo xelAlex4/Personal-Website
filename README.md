@@ -1,28 +1,33 @@
-# My Software Engineering Portfolio
+# 👨‍🎓💻 My Portfolio Website
 
-A modern, responsive portfolio website showcasing projects, skills, and experience as a Computer Science student and software developer.
+[![Live Website](https://img.shields.io/badge/Live_Demo-00B894?style=for-the-badge&logo=vercel&logoColor=white)](https://xelalex4.github.io/)
+[![GitHub License](https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge)](LICENSE)
 
-## Features
+🌟 A modern developer portfolio showcasing my projects, skills, and journey in tech
 
-- **Responsive Design**: Works on all device sizes
-- **Project Showcase**: Display my projects with technologies used
-- **Interactive Elements**: Smooth animations and hover effects
-- **Contact Form**: Easy visitor communication
-- **Multi-Page Structure**: 
-  - Homepage with introduction
-  - Dedicated projects page
-  - About me section
-  - Contact page
-- **Modern Tech Stack**:
-  - Semantic HTML5
-  - CSS3 with custom properties
-  - Vanilla JavaScript
-  - Font Awesome icons
-  - Google Fonts
+## 🚀 Features
 
-## Technologies Used
+- **📱 Responsive Design** - Works perfectly on all devices
+- **🎨 Modern UI** - Clean aesthetics with smooth animations
+- **🛠️ Project Showcase** - Detailed showcase of my past projects
+- **📚 Education Timeline** - Showcases my academic journey
+- **📬 Contact Form** - Directly communicate with me
 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Styling**: CSS Grid, Flexbox, Custom Animations
-- **Icons**: Font Awesome 6
-- **Fonts**: Inter + Space Mono from Google Fonts
+## 💻 Tech Stack
+
+- **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- **Tools**: ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+
+📬 Let's Connect!
+
+    📧 Email: alexanderlee3247@gmail.com
+
+    💼 LinkedIn: Alex Lee
+
+    🐙 GitHub: xelAlex4
+
+## Made with ❤️ by Alex Lee 
