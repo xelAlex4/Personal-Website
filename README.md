@@ -26,7 +26,7 @@
 
     📧 Email: alexanderlee3247@gmail.com
 
-    💼 LinkedIn: Alex Lee
+    💼 LinkedIn: alee48
 
     🐙 GitHub: xelAlex4
 
