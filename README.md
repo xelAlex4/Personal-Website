@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 
-📬 Let's Connect!
+## 📬 Hi! Let's Connect!
 
     📧 Email: alexanderlee3247@gmail.com
 
